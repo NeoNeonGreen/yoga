@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neoneongreen.github.io/yoga/sitemap.xml
+Sitemap: https://conscious-yoga.com/sitemap.xml
